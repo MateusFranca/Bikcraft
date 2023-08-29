@@ -22,13 +22,6 @@ Se você estiver interessado em contribuir para o projeto Bikcraft, siga estas e
 
 Ficamos felizes em receber contribuições da comunidade para tornar a Bikcraft ainda melhor!
 
-## Contato
-
-Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco:
-
-- E-mail: contato@bikcraft.com
-- Telefone: +55 21 9999-9999
-
 ## Informações Adicionais
 
 Para mais detalhes sobre as bicicletas, seguros, termos e condições, visite o site da [Bikcraft](https://mateusfranca.github.io/Bikcraft/).
